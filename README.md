@@ -9,3 +9,4 @@
 * Файл override.tf, override.tf.json, (любое значение)_override.tf и (любое значение)_override.tf.jsom
 * Файлы CLI команд .terraform и terraform.rc
 
+ 
